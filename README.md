@@ -10,6 +10,7 @@
 > ### Java Syntax
 > ### JavaScript Syntax
 > ### HTML and CSS syntax
+> ### Android Syntax
 
 ---
 
