@@ -1,10 +1,15 @@
 # Coverity
 
 > ### Markdown Syntax
+> ### Git Tutorial
 > ### Regular Expression Syntax
 > ### Python Syntax
 > ### Lua Syntax
-> ### Git Tutorial
+> ### C Syntax
+> ### C++ Syntax
+> ### Java Syntax
+> ### JavaScript Syntax
+> ### HTML and CSS syntax
 
 ---
 
