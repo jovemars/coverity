@@ -12,5 +12,7 @@
 > ### HTML and CSS syntax
 > ### Android Syntax
 > ### Makefile Syntax
+> ### SQL Syntax
+
 ---
 
